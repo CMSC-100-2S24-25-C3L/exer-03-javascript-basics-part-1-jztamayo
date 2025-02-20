@@ -22,7 +22,7 @@ function match(string1, string2) {
             hasLower = true;
         }
         // flag to check if upper
-        if (string1[i] == string1[1].toUpperCase()) {
+        if (string1[i] == string1[i].toUpperCase()) {
             hasUpper = true;
         }
     }
@@ -76,7 +76,7 @@ function storePassword(name, pass1, pass2) {
 // test output
 storePassword("John", "Pass1234", "Pass1234")
 storePassword("John", "Pass123", "Pass12345")
-console.log("hello world");
+// console.log("hello world");
 
 
 
