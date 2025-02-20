@@ -11,11 +11,14 @@ Github Repo Link:
 
 Key Takeaways from the Exercise:
 > figuring the logic out for the functions
+
 > learning the syntax and methods for javascript
+
 > doublechecking variables used in loops 
 
 References: 
 > https://www.w3schools.com/jsref/jsref_includes.asp
+
 > https://stackoverflow.com/questions/1027224/how-can-i-test-if-a-letter-in-a-string-is-uppercase-or-lowercase-using-javascrip
 
 > CMSC100 Lab Guide Week 3
