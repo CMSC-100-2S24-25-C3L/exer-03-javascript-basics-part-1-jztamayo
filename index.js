@@ -53,7 +53,7 @@ function match(string1, string2) {
 // reverse password function
 function reverse(string1) {
     let temp = "";
-    for (let i = string1.length - 1; i > 0; i--) {
+    for (let i = string1.length - 1; i > -1; i--) {
         temp = temp + string1[i]
     }
     return temp
